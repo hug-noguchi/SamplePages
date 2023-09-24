@@ -1,2 +1,4 @@
 # SamplePages
 ホームページ
+
+Goodbye
