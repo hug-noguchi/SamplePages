@@ -1,2 +1,3 @@
 こんにちは
-![女性のイラスト](./woman.png)
+
+このホームページのソースコードは[こちら](https://github.com//hug-noguchi/SamplePages/)
